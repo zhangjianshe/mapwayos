@@ -8,6 +8,7 @@
 
 设置交叉编译工具，第一步需要安装依赖包
 
-···
+```shell
 sudo apt-get install build-essential bison flex libgmp3-dev libmpc-dev libmpfr-dev texinfo libcloog-isl-dev libisl-dev qemu grub-common xorriso nasm grub-pc-bin
-···
+
+```
